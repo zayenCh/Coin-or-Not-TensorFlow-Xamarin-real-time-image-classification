@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:CoinorNot" x:Class="CoinorNot.CoinorNotPage">
+
+<StackLayout>
+<Button Text="Take Picture" Clicked="Picture_taken"></Button>
+<Label x:Name="lbl1"></Label>
+<Label x:Name="lbl2"></Label>
+<Label x:Name="lbl3"></Label>
+<Image x:Name="img"></Image>       
+</StackLayout>
+
+</ContentPage>

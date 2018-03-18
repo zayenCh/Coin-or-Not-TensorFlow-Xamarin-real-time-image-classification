@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{85222A14-0AF0-4497-BFA5-2B3EB465509F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages/Xam.Plugin.Media.3.1.3/readme.txt">
+    <Files>
+      <File FileName="CoinorNot/CoinorNotPage.xaml.cs" Line="14" Column="27" />
+      <File FileName="CoinorNot/CoinorNotPage.xaml" Line="6" Column="51" />
+      <File FileName="Droid/MainActivity.cs" Line="30" Column="38" />
+      <File FileName="packages/Xam.Plugin.Media.3.1.3/readme.txt" Line="54" Column="1" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="6" Column="67" />
+      <File FileName="Droid/Resources/xml/file_paths.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoinorNot.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7733CF68-5F85-4E00-9E8C-514E041CDA56">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CoinorNot.iOS>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CoinorNot.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>

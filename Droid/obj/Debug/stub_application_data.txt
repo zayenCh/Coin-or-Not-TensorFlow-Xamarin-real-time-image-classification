@@ -1,0 +1,2 @@
+android.app.Application
+com.zayench.Lyon5.Coin_or_Not
